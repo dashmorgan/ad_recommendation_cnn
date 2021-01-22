@@ -1,4 +1,4 @@
-## Add recommendation CNN
+# Add recommendation CNN <br>
 # Please, find the link to my Medium blog post for this analysis that summarize all findings: https://daria-morgan.medium.com/add-recommendation-system-using-cnn-32d7b08d2dab 
 
 <br>
