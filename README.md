@@ -10,4 +10,4 @@ This directory has a few jupyter notebooks and presentation that shows results a
 - 3_Model.ipynb - code for building a model, <br>
 - 3_Predictions.ipynb - code for transforming data set into set of vectors, <br> 
 - 3_Recommendations.ipynb - code for building a recommendation system.<br><br>
-**_Please, find the link to my Medium blog post for this analysis that summarize all findings: https://daria-morgan.medium.com/add-recommendation-system-using-cnn-32d7b08d2dab_**
+**_ Please, find the link to my Medium blog post for this analysis that summarize all findings: https://daria-morgan.medium.com/add-recommendation-system-using-cnn-32d7b08d2dab _**
